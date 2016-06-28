@@ -2,8 +2,8 @@
 自定义过渡动画
 ![image](https://github.com/codeliu6572/Custom_Animation/blob/master/自定义过渡动画/1.gif)
 
-Core Aniamtion中提供的变换类型并不能满足我们对动画的需要，所以我们会用到基础动画的组合，详情请访问博主博客http://blog.csdn.net/CodingFire查看Core Animation部分
-的动画，这里来说说另一种做动画的方法。
+Core Aniamtion中提供的变换类型并不能满足我们对动画的需要，所以我们会用到基础动画的组合，详情请访问博主
+博客http://blog.csdn.net/CodingFire  ， 查看Core Animation部分的动画，这里来说说另一种做动画的方法。
 
 很奇怪苹果在UIView中提供了动画的过渡方法：
 
